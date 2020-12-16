@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.testClass {
+  background-color: aqua;
+}
+
+.testClass p {
+  padding: 1em;
+  background-color: burlywood;
+}
